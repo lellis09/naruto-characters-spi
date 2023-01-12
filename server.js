@@ -39,7 +39,7 @@ const character ={
         'affliation': 'Konohagakure, Akatsuki',
         'popularJutsu': 'Amaterasu, Tsukuyomi'
     },
-    'hinata hyūga': {
+    'hinata hyuga': {
         'characterName': 'Hinata Hyūga',
         'birthday': 'December 27th',
         'ninjaRank': 'Chūnin',
