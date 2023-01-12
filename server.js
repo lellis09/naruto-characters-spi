@@ -39,6 +39,20 @@ const character ={
         'affliation': 'Konohagakure, Akatsuki',
         'popularJutsu': 'Amaterasu, Tsukuyomi'
     },
+    'hinata hyūga': {
+        'characterName': 'Hinata Hyūga',
+        'birthday': 'December 27th',
+        'ninjaRank': 'Chūnin',
+        'affliation': 'Konohagakure, Allied Shinobi Forces',
+        'popularJutsu': 'Eight Trigrams Sixty-Four Palms, Gentle Fist'
+    },
+    'rock lee': {
+        'characterName': 'Rock Lee',
+        'birthday': 'November 27th',
+        'ninjaRank': 'Chūnin',
+        'affliation': 'Konohagakure, Allied Shinobi Forces',
+        'popularJutsu': 'Drunken Fist, Leaf Great Whirlwind'
+    },
     'unknown': {
         'characterName': 'unknown',
         'birthday': 'unknown',
